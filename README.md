@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with new job opportunites
 - 💬 Ask me about anything I'll try to answer as soon as I can
 - 📫 How to reach me: Email - saadsaiyed7@gmail.com OR hello@saadsaiyed.com
-- ⚡ Fun fact: Read about my self at [saadsaiyed.com]{https://www.saadsaiyed.com}
+- ⚡ Fun fact: Read about my self at [saadsaiyed.com](https://www.saadsaiyed.com)
