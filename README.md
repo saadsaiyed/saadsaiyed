@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Trade Technocrats Ltd. as a Full Stack Developer
+- 🔭 I’m currently working for Microsoft Corporation as Azure Dev Pod Support Engineer.
 - 🌱 I’m currently learning three.js framework
 - 👯 I’m looking to collaborate on node.js and react.js
 - 🤔 I’m looking for help with new job opportunites
